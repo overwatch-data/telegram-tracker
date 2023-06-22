@@ -1,3 +1,5 @@
+##mmcconlogue forked this repo to limit risk of code changes so that we have control and to avoid potential security implications on a production pipeline
+
 <div align="center">
 
 # **Telegram-API**: `a Python-based open-source tool for Telegram`
